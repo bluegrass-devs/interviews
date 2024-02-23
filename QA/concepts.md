@@ -1,5 +1,5 @@
 # Quality Assurance concepts
----
+
 ## Entry Level
 1. Prioty Conecpts
 	* SQL (Standard Query Language)
