@@ -25,6 +25,16 @@ A web page with hardcoded data and behavior. The data table will include CRUD fu
 
 Interviewee should make a user story to interact with this page.
 
+### User Roles
+
+#### Admin
+
+> As an Admin user, I wish to see and modify all table data.
+
+#### General
+
+> As a General user, I wish to see all table data.
+
 ## Test Plan
 
 Interviewee should make a test plan to enact the User Story.
