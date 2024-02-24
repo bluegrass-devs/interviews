@@ -6,12 +6,12 @@
 
 1. User Stories (based on user expectations)
 2. Test Planning (based on user stories)
-3. Bug prioritization - timeliness + impact (qty of users by type)
+3. Bug prioritization - priority (severe / normal / low) + impact (qty of users by type)
 
 ### Necessary Concepts
 
 1. Priority Concepts
-   * SQL (Standard Query Language)
+   * SQL (Structured Query Language)
    * HTTP Response Codes
    * HTTP Action Verbs
    * REST API concepts
