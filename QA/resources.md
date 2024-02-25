@@ -1,3 +1,3 @@
 # Resources
 
-* https://roadmap.sh/qa
+* <https://roadmap.sh/qa>

@@ -1,22 +1,28 @@
 # Quality Assurance concepts
 
 ## Entry Level
-1. Prioty Conecpts
-	* SQL (Standard Query Language)
-	* HTTP Response Codes
-	* HTTP Action Verbs
-	* REST API concepts
-	* User Stories (based on user expectations)
-	* Test Planning (based on user stories)
-	* Bug prioritization - timeleness + impact (qty of users by type)
+
+### Necessary Skills
+
+1. User Stories (based on user expectations)
+2. Test Planning (based on user stories)
+3. Bug prioritization - priority (severe / normal / low) + impact (qty of users by type)
+
+### Necessary Concepts
+
+1. Priority Concepts
+   * SQL (Structured Query Language)
+   * HTTP Response Codes
+   * HTTP Action Verbs
+   * REST API concepts
 2. Secondary Concepts
-	* Devtools
-		* network Tab
-		* console
-		* accessiblity
-		* Lighthouse
-	* API client tools: Postman / Thunderclient / Swagger / etc.
+   * Devtools
+   * network Tab
+   * console
+   * accessibility
+   * Lighthouse
+   * API client tools: Postman / Thunder Client / Swagger / etc.
 3. Tertiary Concepts
-	* cURL
-	* Selenium + nightwatch
-	* Story book
+   * cURL
+   * Selenium + Nightwatch.js
+   * Story book
