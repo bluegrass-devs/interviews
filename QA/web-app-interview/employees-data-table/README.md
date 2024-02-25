@@ -43,6 +43,7 @@ Interviewee should make a test plan to enact the User Story.
 
 Interviewee should make notes of and document the bug found
 
+* [ ] Expected behavior vs actual behavior
 * [ ] Reproduction Steps
 * [ ] Impact Assessment (number of users impacted by type of user)
 * [ ] Prioritization Recommendation (severe / normal / low)
