@@ -8,3 +8,4 @@
 * [X] Add acceptance criteria for general user (read functionality)
 * [ ] Add acceptance criteria for manager user (CRUD functionality)
 * [ ] Add a place for the interviewee to type out their assumptions? Just speak through this?
+* [ ] Give the interviewee a DB schema as a hypothetical structure to write simple SQL queries against (e.g. `SELECT * FROM employees WHERE isActive`)
