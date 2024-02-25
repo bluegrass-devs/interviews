@@ -1,6 +1,6 @@
-# Broken Data Table
+# Employees Data Table
 
-A web page with hardcoded data and behavior. The data table will include CRUD functionality. These areas where one could incorporate a bug.
+A web page with hardcoded data and behavior. The data table will include CRUD functionality. These are areas where one could incorporate a bug.
 
 | Name | Date Created | Date Updated |
 | ---- | ------------ | ------------ |
