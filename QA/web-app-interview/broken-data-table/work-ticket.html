@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Ticket - Employee Data Table</title>
+    <style>
+        section.wire-frame { display: grid; gap: 10px; max-width: 941px; }
+        table { border: thick double #000; }
+        td { border: solid #000; padding: 20px; }
+        .t-elements { display: flex; justify-content: space-between; }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Ticket #1 - Employees Data Table</h1>
+        <article>
+            <h2>Description</h2>
+            <section class="wire-frame">
+                <h3>Wire frame - general user</h3>
+                <div class="t-elements">
+                    <span>pagination selector (10, 25, 50, 100)</span>
+                    <span>search box</span>
+                </div>
+                <table>
+                    <thead>
+                        <td>Name (sortable)</td>
+                        <td>Position (sortable)</td>
+                        <td>Office (sortable)</td>
+                        <td>Age (sortable)</td>
+                        <td>Start date (sortable)</td>
+                        <td>Salary (sortable)</td>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Gandalf</td>
+                            <td>QA</td>
+                            <td>Shire</td>
+                            <td>7000</td>
+                            <td>yyyy-mm-dd</td>
+                            <td>$00,000</td>
+                        </tr>
+                        <tr>
+                            <td>Frodo</td>
+                            <td>Dev</td>
+                            <td>Shire</td>
+                            <td>33</td>
+                            <td>yyyy-mm-dd</td>
+                            <td>$00,000</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="t-elements">
+                    <span>Showing (page start) to (page end) of (total active employees)</span>
+                    <span>page selectors</span>
+                </div>
+            </section>
+            <section>
+                <h3>Acceptance Criteria</h3>
+                <p>As a general user, I wish to view all active employees</p>
+                <ul>
+                    <li>view all active employees by name, position, office, age, start date, and Salary</li>
+                    <li>sort each column (ascending and descending order)</li>
+                    <li>choose the number of rows for each page of the table</li>
+                    <li>switch between table pages</li>
+                    <li>search all rows, all columns based on search text (salary work w/o comma needed)</li>
+                </ul>
+            </section>
+        </article>
+    </main>
+</body>
+</html>
