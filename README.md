@@ -5,3 +5,4 @@ A repository of interview questions and projects to be used to assist in communi
 ## Current Categories
 
 * Quality Assurance (QA)
+* Ruby on Rails
